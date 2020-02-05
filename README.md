@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-```python
+```
 from nbdev_test.core import test
 
 test()
