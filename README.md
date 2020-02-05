@@ -1,4 +1,20 @@
-# nbdev template
+# nbdev test
+> test nbdev
 
-Use this template to more easily create your nbdev project.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install nbdev_test`
+
+## How to use
+
+```python
+from nbdev_test.core import test
+
+test()
+```
+
+    test
 
