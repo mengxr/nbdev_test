@@ -8,3 +8,7 @@ from .core import test
 # Cell
 def another_test():
     test()
+
+# Cell
+def _private():
+    pass
