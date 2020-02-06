@@ -3,7 +3,8 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"test": "00_core.ipynb",
-         "another_test": "01_util.ipynb"}
+         "another_test": "01_util.ipynb",
+         "third_test": "01_util.ipynb"}
 
 modules = ["core.py",
            "util.py"]
